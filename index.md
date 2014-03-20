@@ -39,6 +39,7 @@ mode        : selfcontained # {standalone, draft}
 ***=right
 
 <img src="http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg" />
+
 --- 
 
 ## How do you do it?
