@@ -16,7 +16,7 @@ mode        : selfcontained # {standalone, draft}
 
 ***=left
 1. What am I talking about?
-2. How to do it?
+
 3. Does it matter?
 4. Some EPA specific issues
 
@@ -26,12 +26,19 @@ mode        : selfcontained # {standalone, draft}
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="font-size:300%;">What am I talking about?</h2></hgroup>
 
----
+--- &twocol w1:40% w2:60%
 
 ## What am I talking about?
 
-<img src="http://imgs.xkcd.com/comics/social_media.png" />
+***=left
 
+1. Blogging
+2. Twitter
+3. Social networks
+
+***=right
+
+<img src="http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg" />
 --- 
 
 ## How do you do it?
