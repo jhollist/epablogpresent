@@ -22,6 +22,8 @@ mode        : selfcontained # {standalone, draft}
 
 ***=right
 
+<img src="http://juice-marketing.com/blog/wp-content/uploads/2011/09/The-Earliest-Days-of-Social-Media1.jpg" />"
+
 --- .segue bg:url(http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg)
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="font-size:300%;">What am I talking about?</h2></hgroup>
@@ -44,7 +46,7 @@ mode        : selfcontained # {standalone, draft}
 
 ## How do you do it?
 
-<img src="http://blaugh.com/cartoons/070104_booger-blogger.gif" />
+<img src="http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg" />
 
 --- 
 ## Does it Matter?
