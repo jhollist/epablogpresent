@@ -17,20 +17,11 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 1. What am I talking about?
-2. Does it matter: Anecdotes and Some Data?
-3. Some EPA specific issues
+2. Best Practices.
+2. Does it matter: Anecdotes and Some Data.
+3. Some EPA Specific Considerations.
 
 ***=right
-
-<img src="http://juice-marketing.com/blog/wp-content/uploads/2011/09/The-Earliest-Days-of-Social-Media1.jpg" />"
-
-
-<!-- Segue 1 -->
-
---- .segue bg:url(http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg)
-
-<hgroup style="left: 30px; bottom: 35px;"><h2 style="font-size:300%;">What am I talking about?</h2></hgroup>
-
 
 
 --- &twocol w1:40% w2:60%
@@ -46,20 +37,89 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
-<img src="http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg" />
+<!-- Segue Blogging -->
 
---- 
+--- .segue bg:url(http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg)
 
-## Blogging
+<hgroup style="left: 30px; bottom: 35px;"><h2 style="font-size:300%;">Blogging</h2></hgroup>
 
 
----
+--- &twocol w1:40% w2:60%
 
-## Twitter
+## Blogging: What?
 
---- 
+***=left
 
-## Social Networks
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Blogging: How?
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Blogging: Science Best Practices?
+
+***=left
+
+
+***=right
+
+
+<!-- Segue Twitter -->
+
+--- .segue bg:url(http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg)
+
+<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Twitter</h2></hgroup>
+
+
+--- &twocol w1:40% w2:60%
+
+## Twitter: What?
+
+***=left
+
+
+***=right
+
+
+--- &twocol w1:40% w2:60%
+
+## Twitter: How?
+
+***=left
+
+
+***=right
+
+
+--- &twocol w1:40% w2:60%
+
+
+## Twitter: Science Best Practices?
+
+***=left
+
+
+***=right
+
+<!-- Segue Social Networks -->
+
+--- .segue bg:url(assets/img/MashableComicEarlySocialMedia_small.jpg)
+
+<hgroup style="left: 30px; bottom: 35px;"><h2 style=" font-size:300%;">Social Networks</h2></hgroup>
+
+--- &twocol w1:40% w2:60%
+
+## Social Networks: What and How?
+
+***=left
 
 1. Facebook
 3. Google+
@@ -67,15 +127,35 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 5. ResearchGate
 6. Academia.edu
 
-<img src="http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg" />
+***=right
 
----
+<img src="assets/img/MashableComicEarlySocialMedia_small.jpg" style="" />
 
-## Github
+<span style="position:absolute;left: 30px; bottom: 35px;">Comic Credit:<a href="http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg">Matt Silverman and Kiersten Essenpreis</a></h2></hgroup>
 
----
+--- &twocol w1:40% w2:60%
+
+## Github: A special case?
+
+***=left
+
+
+***=right
+
+
+
+<!-- Segue Online Identity -->
+
+--- .segue bg:url(http://perfectreputations.com/cartoon.jpg)
+
+<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Online Identity</h2></hgroup>
+
+
+--- &twocol w1:40% w2:60%
 
 ## Online Identity
+
+***=left
 
 1. Everything already mentioned
 2. Personal Webpage
@@ -83,20 +163,62 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 4. ImpactStory
 5. ORCID
 
+***=right
 
-<!-- Segue 2 -->
+--- &twocol w1:40% w2:60%
 
---- .segue bg:url(assets/img/MashableComicEarlySocialMedia_small.jpg)
+## Online Identity: Personal Page
 
-## Does it Matter?
+***=left
 
-<span style="position:absolute;color:white; left: 30px; bottom: 35px;">Comic Credit:<a href="http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg">Matt Silverman and Kiersten Essenpreis</a></h2></hgroup>
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Online Identity: Google Scholar 
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Online Identity: ImpactStory
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Online Identity: ORCID
+
+***=left
+
+
+***=right
+
+<!-- Segue Does It Matter -->
+
+--- .segue bg:url(http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
+
+<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Does It Matter?</h2></hgroup>
+
+
+
+<!-- Segue EPA Specific Considerations -->
+
+--- .segue bg:url(http://imgs.xkcd.com/comics/dangers.png)
+
+<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">EPA Specific Considerations</h2></hgroup>
+
 
 ---
 
-## EPA-specific issues
-
-<img src="http://imgs.xkcd.com/comics/dangers.png" />
+## Image Credits
 
 
 
