@@ -38,12 +38,16 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 --- &twocol w1:40% w2:60%
 
-## Blogging: What?
+## Blogging: Defined?
 
 ***=left
 
 
+
+
 ***=right
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=blogging%2Cblog%2Cblogger&case_insensitive=on&year_start=1990&year_end=2008&corpus=15&smoothing=7&share=&direct_url=t4%3B%2Cblogging%3B%2Cc0%3B%2Cs0%3B%3Bblogging%3B%2Cc0%3B%3BBlogging%3B%2Cc0%3B%3BBLOGGING%3B%2Cc0%3B.t4%3B%2Cblog%3B%2Cc0%3B%2Cs0%3B%3Bblog%3B%2Cc0%3B%3BBlog%3B%2Cc0%3B%3BBLOG%3B%2Cc0%3B.t4%3B%2Cblogger%3B%2Cc0%3B%2Cs0%3B%3Bblogger%3B%2Cc0%3B%3BBlogger%3B%2Cc0%3B%3BBLOGGER%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
 --- &twocol w1:40% w2:60%
 
