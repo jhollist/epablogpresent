@@ -16,26 +16,17 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 ## Overview
 
 ***=left
-1. What am I talking about?
-2. Best Practices.
-2. Does it matter: Anecdotes and Some Data.
-3. Some EPA Specific Considerations.
-
-***=right
-
-
---- &twocol w1:40% w2:60%
-
-## What am I talking about?
-
-***=left
 
 1. Blogging
-2. Twitter
-3. Social networks
+2. Twiiter
+3. Social Media
 4. Online Presence
+5. EPA Considerations
+6. Does it matter?
 
 ***=right
+
+
 
 <!-- Segue Blogging -->
 
@@ -201,19 +192,82 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
-<!-- Segue Does It Matter -->
-
---- .segue bg:url(http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
-
-<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Does It Matter?</h2></hgroup>
-
-
 
 <!-- Segue EPA Specific Considerations -->
 
 --- .segue bg:url(http://imgs.xkcd.com/comics/dangers.png)
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">EPA Specific Considerations</h2></hgroup>
+
+--- &twocol w1:40% w2:60%
+
+## Some EPA Considerations: Personal Blogs
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Some EPA Considerations: "Official" Blogs
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Some EPA Considerations: Twitter
+
+***=left
+
+
+***=right
+
+<!-- Segue Does It Matter -->
+
+--- .segue bg:url(http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
+
+<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Does It Matter?</h2></hgroup>
+
+--- &twocol w1:40% w2:60%
+
+## Does it Matter: What others think
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Does it Matter: My Experience
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Does it Matter: Real Data 2
+
+***=left
+
+
+***=right
+
+--- &twocol w1:40% w2:60%
+
+## Does it Matter: Real Data 1
+
+***=left
+
+
+***=right
+
 
 
 ---
