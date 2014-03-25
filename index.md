@@ -36,18 +36,29 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="font-size:300%;">Blogging</h2></hgroup>
 
 
---- &twocol w1:40% w2:60%
+--- 
+
+## Blogging: Defined?
+
+- blog: Truncation of the term "web log." 
+- First used in mid to late 90's.  
+- Refers simply to a web based platform for sharing information or discussion about any subject.  
+
+<img src="assets/img/blogNgram.jpg" style="position: absolute;width:1000px;bottom: 50px;"/>
+
+--- &twocol w1:50% w2:50%
 
 ## Blogging: Defined?
 
 ***=left
 
-
+- Can be informal (e.g. http://dailylolcat.blogspot.com/)
+- Or professional (e.g. http://blogs.nature.com/).
 
 
 ***=right
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=blogging%2Cblog%2Cblogger&case_insensitive=on&year_start=1990&year_end=2008&corpus=15&smoothing=7&share=&direct_url=t4%3B%2Cblogging%3B%2Cc0%3B%2Cs0%3B%3Bblogging%3B%2Cc0%3B%3BBlogging%3B%2Cc0%3B%3BBLOGGING%3B%2Cc0%3B.t4%3B%2Cblog%3B%2Cc0%3B%2Cs0%3B%3Bblog%3B%2Cc0%3B%3BBlog%3B%2Cc0%3B%3BBLOG%3B%2Cc0%3B.t4%3B%2Cblogger%3B%2Cc0%3B%2Cs0%3B%3Bblogger%3B%2Cc0%3B%3BBlogger%3B%2Cc0%3B%3BBLOGGER%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+<img src="assets/img/blogNgram.jpg" style="width:525px;"/>
 
 --- &twocol w1:40% w2:60%
 
