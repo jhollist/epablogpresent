@@ -11,7 +11,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained  # {standalone, draft, selfcontained}
 
---- &twocol w1:25% w2:70%
+--- &twocol w1:35% w2:60%
 
 ## Overview
 
