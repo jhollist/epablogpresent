@@ -27,10 +27,9 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 ***=right
 
 
-
 <!-- Segue Blogging -->
 
---- .segue bg:url(http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg)
+--- .segue bg:url(assets/img/070104_booger-blogger.jpg)
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="font-size:300%;">Blogging</h2></hgroup>
 
@@ -62,10 +61,29 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
+--- &twocol w1:40% w2:60%
+
+## Blogging: EPA and personal blogs
+
+***=left
+
+
+***=right
+<img src="assets/img/dangersCrop.jpg" />
+
+--- &twocol w1:40% w2:60%
+
+## Blogging: EPA "Official" Blogs
+
+***=left
+
+
+***=right
+<img src="assets/img/dangersCrop.jpg" />
 
 <!-- Segue Twitter -->
 
---- .segue bg:url(http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg)
+--- .segue bg:url(assets/img/assimilated.jpg)
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Twitter</h2></hgroup>
 
@@ -100,11 +118,23 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
+--- &twocol w1:40% w2:60%
+
+## Twitter: EPAs take
+
+***=left
+
+
+***=right
+<img src="assets/img/dangersCrop.jpg" />
+
 <!-- Segue Social Networks -->
 
 --- .segue bg:url(assets/img/MashableComicEarlySocialMedia_small.jpg)
 
-<hgroup style="left: 30px; bottom: 35px;"><h2 style=" font-size:300%;">Social Networks</h2></hgroup>
+<hgroup style="left: 600px; bottom: 600px;"><h2 style=" font-size:300%;">Social Networks</h2></hgroup>
+
+
 
 --- &twocol w1:40% w2:60%
 
@@ -120,9 +150,6 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
-<img src="assets/img/MashableComicEarlySocialMedia_small.jpg" style="" />
-
-<span style="position:absolute;left: 30px; bottom: 35px;">Comic Credit:<a href="http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg">Matt Silverman and Kiersten Essenpreis</a></h2></hgroup>
 
 --- &twocol w1:40% w2:60%
 
@@ -137,7 +164,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 <!-- Segue Online Identity -->
 
---- .segue bg:url(http://perfectreputations.com/cartoon.jpg)
+--- .segue bg:url(assets/img/OnlineIdentitycartoon.jpg)
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Online Identity</h2></hgroup>
 
@@ -193,44 +220,11 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 ***=right
 
 
-<!-- Segue EPA Specific Considerations -->
-
---- .segue bg:url(http://imgs.xkcd.com/comics/dangers.png)
-
-<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">EPA Specific Considerations</h2></hgroup>
-
---- &twocol w1:40% w2:60%
-
-## Some EPA Considerations: Personal Blogs
-
-***=left
-
-
-***=right
-
---- &twocol w1:40% w2:60%
-
-## Some EPA Considerations: "Official" Blogs
-
-***=left
-
-
-***=right
-
---- &twocol w1:40% w2:60%
-
-## Some EPA Considerations: Twitter
-
-***=left
-
-
-***=right
-
 <!-- Segue Does It Matter -->
 
---- .segue bg:url(http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
+--- .segue bg:url(assets/img/Hubspot-The-Rank-Nazi.jpg)
 
-<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Does It Matter?</h2></hgroup>
+<hgroup style="left: 30px; bottom: 600px;"><h2 style="color:#559B6A; font-size:300%;">Does It Matter?</h2></hgroup>
 
 --- &twocol w1:40% w2:60%
 
@@ -272,8 +266,13 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ---
 
-## Image Credits
+## Comic Credits
 
-
+- slide 4: [Pirillio and Fitz](http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg) 
+- slide 8: [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg)
+- slide 12: [Silverman and Essenpreis](http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg)
+- slide 15: [Perfect Reputations](http://perfectreputations.com/cartoon.jpg)
+- slide 21: [XKCD](http://imgs.xkcd.com/comics/dangers.png)
+- slide 25: [Hill and Shah](http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
 
 
