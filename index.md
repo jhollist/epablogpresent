@@ -26,6 +26,8 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
+<img src="assets/img/cat-pushing-watermelon-out-of-lake.jpg" />
+
 
 <!-- Segue Blogging -->
 
