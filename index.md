@@ -107,10 +107,14 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 --- &twocol w1:40% w2:60%
 
-## Blogging: EPA and personal blogs
+## Blogging and EPA
 
 ***=left
-
+### Personal Blogs
+- Allowed, but...
+>- Not at work
+>- Careful with what gets posted
+>- No PII, non-cleared info, etc.
 
 ***=right
 <img src="assets/img/dangersCrop.jpg" />
@@ -120,10 +124,19 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 ## Blogging: EPA "Official" Blogs
 
 ***=left
-
+- Two options:
+>- Internal Blogs
+  -easy to set up
+  -easy to run
+  -no reviews of posts required
+  -limited reach
+  -[Harmful Algal Blog](https://intrablog.epa.gov/harmfulalgalblog/)
+>- External Blogs
+ -[Greenversations](http://www2.epa.gov/aboutepa/greenversations)
+ -[It all starts with science](http://blog.epa.gov/science/)
 
 ***=right
-<img src="assets/img/dangersCrop.jpg" />
+<img src="assets/img/epablogs.jpg" style="width: 550px;"/>
 
 <!-- Segue Twitter -->
 
