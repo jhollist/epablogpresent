@@ -46,7 +46,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 <img src="assets/img/blogNgram.jpg" style="position: absolute;width:1000px;bottom: 50px;"/>
 
---- &twocol w1:50% w2:50%
+--- &twocol w1:48% w2:50%
 
 ## Blogging: Defined?
 
@@ -62,7 +62,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
-<img src=""/>
+<img src="assets/img/cheez.jpg" style="width: 500px;"/>
 
 --- &twocol w1:60% w2:40%
 
@@ -84,13 +84,15 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 - Long Form (500+ words)
 - Short Form (100 - 500 words)
 - Visual (Short sentences, images)
-- Gradient (crude -> converstaional -> formal (almost))
+- Gradient (crude > converstaional > formal (almost))
 
---- &twocol w1:40% w2:60%
+--- &twocol w1:45% w2:50%
 
 ## Blogging: Best Practices?
 
 ***=left
+
+### Rules
 
 >- Update frequency:
  - choose one and stick with it
@@ -98,20 +100,23 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 >- Comments:
  - Respond!
  - Moderate
+ 
 >- Or ...
- >- There are no rules
+>- There are no rules
 
 ***=right
 
-
+<img src="assets/img/bloggingRules.jpg" />
 
 --- &twocol w1:40% w2:60%
 
 ## Blogging and EPA
 
 ***=left
+
 ### Personal Blogs
-- Allowed, but...
+
+Allowed, but...
 >- Not at work
 >- Careful with what gets posted
 >- No PII, non-cleared info, etc.
@@ -124,19 +129,21 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 ## Blogging: EPA "Official" Blogs
 
 ***=left
-- Two options:
+
+### Two options:
+
 >- Internal Blogs
-  -easy to set up
-  -easy to run
-  -no reviews of posts required
-  -limited reach
-  -[Harmful Algal Blog](https://intrablog.epa.gov/harmfulalgalblog/)
+ - easy to set up
+ - easy to run
+ - no reviews of posts required
+ - limited reach
+ - [Harmful Algal Blog](https://intrablog.epa.gov/harmfulalgalblog/)
 >- External Blogs
- -[Greenversations](http://www2.epa.gov/aboutepa/greenversations)
- -[It all starts with science](http://blog.epa.gov/science/)
+ - [Greenversations](http://www2.epa.gov/aboutepa/greenversations)
+ - [It All Starts with Science](http://blog.epa.gov/science/)
 
 ***=right
-<img src="assets/img/epablogs.jpg" style="width: 550px;"/>
+<img src="assets/img/epablogs.png" style="width: 550px;position: absolute;bottom: 30px;"/>
 
 <!-- Segue Twitter -->
 
@@ -150,10 +157,16 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 ## Twitter: What?
 
 ***=left
-
+- Micro-blogging site
+- Limited to 140 Characters
+- Purpose: Share what you want, but keep it short (my definition)
+- Followers, Following, Tweets
 
 ***=right
 
+### Risk Taking
+
+[![jhollist](assets/img/jhollistTwitter.jpg)](http://twitter.com)
 
 --- &twocol w1:40% w2:60%
 
@@ -163,6 +176,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 
 ***=right
+
 
 
 --- &twocol w1:40% w2:60%
@@ -181,6 +195,15 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
+### Personal Account
+- Same rules as blogs
+- nothing that is sensitive
+
+### Official EPA Accounts
+- Select few have access
+- Coordinate with Communications Staff
+- They Welcome content!
+
 
 ***=right
 <img src="assets/img/dangersCrop.jpg" />
@@ -193,7 +216,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 
 
---- &twocol w1:40% w2:60%
+--- &twocol w1:60% w2:40%
 
 ## Social Networks: What and How?
 
@@ -207,6 +230,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
+<img src="assets/img/socialLogos.jpg" style="width: 300px;"/>
 
 --- &twocol w1:40% w2:60%
 
@@ -214,8 +238,18 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
+### For code, but ...
+
+>- really just text
+ - manuscripts
+ - websites
+ - code
+ - etc.
+>- Social component
 
 ***=right
+
+<img src="assets/img/jwhGithub.jpg" />
 
 
 
@@ -289,6 +323,31 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
+### Great Articles
+
+- Social Media: [Jarett Byrnes](http://www.imachordata.com/which-social-media-platform-should-i-use-for-science/)
+- Blogging: [Fox, (2012), Ideas in Ecology and Evolution](http://library.queensu.ca/ojs/index.php/IEE/article/view/4457)
+- Twitter: [Darling et al, (2013), Ideas in Ecology and Evolution](http://library.queensu.ca/ojs/index.php/IEE/article/view/4625)
+- Blogging: [Bik and Goldstein, (2013) PLOS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001535)
+
+
+***=right
+
+<img src="assets/img/journal.pbio.1001535.g001.png" alt="From Bik and Goldstein (2013)" style="height: 575px;position: absolute;bottom: 20px;right: 80px;" />
+
+
+--- &twocol w1:40% w2:60%
+
+## Does it Matter: My Experience
+
+***=left
+
+### A Few Examples
+>- Finding papers 
+>- New Collaborations
+ - ROpenSci
+ - Software Carpentry
+ - Boston MOS/MIT
 
 ***=right
 
@@ -298,26 +357,43 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
+### A Few Examples
+- And a T-Shirt!
 
 ***=right
 
---- &twocol w1:40% w2:60%
-
-## Does it Matter: Real Data 2
-
-***=left
-
-
-***=right
+![Peerj Tshirt](assets/img/PeerJ-shirts-2013_270.jpg)
 
 --- &twocol w1:40% w2:60%
 
 ## Does it Matter: Real Data 1
 
 ***=left
-
+- Increased Online Activity
+ - Twitter
+ - Blog
+ - Personal Site
+- Nothing Targeted
+ - [Hollister et al (2011) PLOS One](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025764)
 
 ***=right
+
+![hollistergraph](assets/img/hollistergraph.png)
+
+--- &twocol w1:40% w2:60%
+
+## Does it Matter: Real Data 2
+
+***=left
+- Targeted Blog Post
+ - [EPA: It All Starts with Science](http://blog.epa.gov/science/2013/12/sparrows-lakes-and-nutrients/)
+ - [Personal Blog](http://landeco2point0.wordpress.com/2013/12/03/sparrow-lake-volume-field-data-plos-one-paper/)
+- Tweets
+ - @EPAresearch
+ - @jhollist
+
+***=right
+![milsteadgraph](assets/img/milsteadgraph.png)
 
 ---
 
@@ -328,7 +404,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 1. Google Shcolar
 2. ORCID
 3. Twitter
-4. **if you code**: GitHub
+4. **if you code:** GitHub
 4. Read and Comment On Blogs
 5. Write posts for other Blogs (e.g. EPA's It all Starts with Science)
 6. Start your Own Blog
@@ -336,23 +412,17 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 8. Whatever Social Networking sites you want (YMMV)
 
 
-
----
-
-## More info
-
-[Jarett Byrnes](http://www.imachordata.com/which-social-media-platform-should-i-use-for-science/)
-[Bik and Goldstein, PLOS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001535)
-
 ---
 
 ## Comic Credits
 
-- slide 4: [Pirillio and Fitz](http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg) 
-- slide 8: [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg)
-- slide 12: [Silverman and Essenpreis](http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg)
-- slide 15: [Perfect Reputations](http://perfectreputations.com/cartoon.jpg)
-- slide 21: [XKCD](http://imgs.xkcd.com/comics/dangers.png)
-- slide 25: [Hill and Shah](http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
+- Slide : [Mark Lynch](https://www.socialstrata.com/blog/community-guidelines-for-blogging)
+- slide : [Forbes](http://b-i.forbesimg.com/kenkrogue/files/2013/11/social-nurturing-with-linkedin-twitter-facebook-google-plus.jpg)
+- slide : [Pirillio and Fitz](http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg) 
+- slide : [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg)
+- slide : [Silverman and Essenpreis](http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg)
+- slide : [Perfect Reputations](http://perfectreputations.com/cartoon.jpg)
+- slide : [XKCD](http://imgs.xkcd.com/comics/dangers.png)
+- slide : [Hill and Shah](http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
 
 
