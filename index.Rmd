@@ -42,7 +42,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 - blog: Truncation of the term "web log." 
 - First used in mid to late 90's.  
-- Refers simply to a web based platform for sharing information or discussion about any subject.  
+- Refers simply to a web based platform for sharing information or discussion about any subject. 
 
 <img src="assets/img/blogNgram.jpg" style="position: absolute;width:1000px;bottom: 50px;"/>
 
@@ -52,12 +52,13 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
-- Informal (e.g. http://dailylolcat.blogspot.com/)
-- Professional (e.g. FiveThirtyEight)
-- Science
- -
- -
- -
+- Informal (e.g. [I Can Has Cheezburger](http://icanhas.cheezburger.com/lolcats))
+- Professional (e.g. [FiveThirtyEight](http://fivethirtyeight.com/))
+- Science (LOTS!)
+ - Journals (e.g. [PLOS](http://blogs.plos.org/))
+ - Agencies (e.g. [EPA](http://blog.epa.gov/science/))
+ - Academics (e.g. [Jeremy Fox: Dynamic Ecology](http://dynamicecology.wordpress.com/), [Simon Donner: Maribo](http://blogs.ubc.ca/maribo/))
+ - Topical Aggregators (e.g. [R-bloggers](http://www.r-bloggers.com/))
 
 ***=right
 
@@ -69,12 +70,24 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
+### Technologies
+
+- Wordpress (.com vs .org)
+- Blogger
+- Tumblr
+- Jekyll/Octopress
 
 ***=right
 
+### Styles
+
+- Long Form (500+ words)
+- Short Form (100 - 500 words)
+- Visual (Short sentences, images)
+
 --- &twocol w1:40% w2:60%
 
-## Blogging: Science Best Practices?
+## Blogging: Best Practices?
 
 ***=left
 
