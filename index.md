@@ -42,7 +42,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 - blog: Truncation of the term "web log." 
 - First used in mid to late 90's.  
-- Refers simply to a web based platform for sharing information or discussion about any subject. 
+- Web based platform for sharing information or discussion about any subject. 
 
 <img src="assets/img/blogNgram.jpg" style="position: absolute;width:1000px;bottom: 50px;"/>
 
@@ -55,7 +55,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 - Informal (e.g. [I Can Has Cheezburger](http://icanhas.cheezburger.com/lolcats))
 - Professional (e.g. [FiveThirtyEight](http://fivethirtyeight.com/))
 - Science (LOTS!)
- - Journals (e.g. [PLOS](http://blogs.plos.org/))
+ - Journals (e.g. [PLOS](http://blogs.plos.org/), [Scientific American](http://blogs.scientificamerican.com) )
  - Agencies (e.g. [EPA](http://blog.epa.gov/science/))
  - Academics (e.g. [Jeremy Fox: Dynamic Ecology](http://dynamicecology.wordpress.com/), [Simon Donner: Maribo](http://blogs.ubc.ca/maribo/))
  - Topical Aggregators (e.g. [R-bloggers](http://www.r-bloggers.com/))
@@ -64,7 +64,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 <img src=""/>
 
---- &twocol w1:40% w2:60%
+--- &twocol w1:60% w2:40%
 
 ## Blogging: How?
 
@@ -84,6 +84,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 - Long Form (500+ words)
 - Short Form (100 - 500 words)
 - Visual (Short sentences, images)
+- Gradient (crude -> converstaional -> formal (almost))
 
 --- &twocol w1:40% w2:60%
 
@@ -91,8 +92,18 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
+>- Update frequency:
+ - choose one and stick with it
+ - but more frequent better than less
+>- Comments:
+ - Respond!
+ - Moderate
+>- Or ...
+ >- There are no rules
 
 ***=right
+
+
 
 --- &twocol w1:40% w2:60%
 
@@ -295,7 +306,30 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=right
 
+---
 
+## My Recomendations
+
+### In Order:
+
+1. Google Shcolar
+2. ORCID
+3. Twitter
+4. **if you code**: GitHub
+4. Read and Comment On Blogs
+5. Write posts for other Blogs (e.g. EPA's It all Starts with Science)
+6. Start your Own Blog
+7. Personal Page
+8. Whatever Social Networking sites you want (YMMV)
+
+
+
+---
+
+## More info
+
+[Jarett Byrnes](http://www.imachordata.com/which-social-media-platform-should-i-use-for-science/)
+[Bik and Goldstein, PLOS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001535)
 
 ---
 
