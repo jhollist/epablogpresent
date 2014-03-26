@@ -52,13 +52,16 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 ***=left
 
-- Can be informal (e.g. http://dailylolcat.blogspot.com/)
-- Or professional (e.g. http://blogs.nature.com/).
-
+- Informal (e.g. http://dailylolcat.blogspot.com/)
+- Professional (e.g. FiveThirtyEight)
+- Science
+ -
+ -
+ -
 
 ***=right
 
-<img src="assets/img/blogNgram.jpg" style="width:525px;"/>
+<img src=""/>
 
 --- &twocol w1:40% w2:60%
 
@@ -100,7 +103,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 <!-- Segue Twitter -->
 
---- .segue bg:url(assets/img/assimilated.jpg)
+--- .segue bg:url(assets/img/Assimilated.jpg)
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Twitter</h2></hgroup>
 
