@@ -174,20 +174,32 @@ Allowed, but...
 
 ***=left
 
+- @jhollist
+- #icanhazpdf or #rstats
+- RT
+- MT
 
 ***=right
 
+<img src="assets/img/hashtag.jpg" />
 
 
 --- &twocol w1:40% w2:60%
 
 
-## Twitter: Science Best Practices?
+## Twitter: Why?
 
 ***=left
-
+- Best bang for buck
+- Low time investment
+- Easier to mix personal/professional
+ - @EPAresearch and @TheOnion
+ - @PLOSLabs and @CharliePapazian
 
 ***=right
+
+<blockquote class="twitter-tweet" lang="en"><p>&quot;I appreciate that they let me ride in the car, but do I think of them as family? God, no.&quot; <a href="http://t.co/npyAd3NkZF">http://t.co/npyAd3NkZF</a> <a href="http://t.co/LgnRh3zXYk">pic.twitter.com/LgnRh3zXYk</a></p>&mdash; The Onion (@TheOnion) <a href="https://twitter.com/TheOnion/statuses/444552891575984129">March 14, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --- &twocol w1:40% w2:60%
 
@@ -326,6 +338,7 @@ Allowed, but...
 ### Great Articles
 
 - Social Media: [Jarett Byrnes](http://www.imachordata.com/which-social-media-platform-should-i-use-for-science/)
+- Twitter: [Meg Duffy](http://dynamicecology.wordpress.com/2012/09/13/why-i-use-twitter/)
 - Blogging: [Fox, (2012), Ideas in Ecology and Evolution](http://library.queensu.ca/ojs/index.php/IEE/article/view/4457)
 - Twitter: [Darling et al, (2013), Ideas in Ecology and Evolution](http://library.queensu.ca/ojs/index.php/IEE/article/view/4625)
 - Blogging: [Bik and Goldstein, (2013) PLOS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001535)
@@ -416,6 +429,7 @@ Allowed, but...
 
 ## Comic Credits
 
+- slide : [twitpic](https://twitpic.com/dgj4t6)
 - Slide : [Mark Lynch](https://www.socialstrata.com/blog/community-guidelines-for-blogging)
 - slide : [Forbes](http://b-i.forbesimg.com/kenkrogue/files/2013/11/social-nurturing-with-linkedin-twitter-facebook-google-plus.jpg)
 - slide : [Pirillio and Fitz](http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg) 
