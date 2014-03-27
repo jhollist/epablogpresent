@@ -196,7 +196,7 @@ Allowed, but...
 
 <span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: <a href="https://twitpic.com/dgj4t6">indeterminate/twitpic</a></span>
 
---- &twocol w1:43% w2:57%
+--- &twocol w1:45% w2:55%
 
 
 ## Twitter: Why?
