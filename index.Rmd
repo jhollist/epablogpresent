@@ -295,7 +295,21 @@ Allowed, but...
 > - Jarrett Byrnes, 
 > <span><a href="http://www.imachordata.com/which-social-media-platform-should-i-use-for-science">i'm a chordata, urachordata</a></span>
 
---- &twocol w1:30% w2:70%
+--- &twocol w1:40% w2:55%
+
+## Online Identity: ORCID
+
+***=left
+- Open Researcher and Contributor ID (ORCID)
+- Increasingly adopted
+- Individual identifier
+- Accepted widely
+
+***=right
+
+<img src="assets/img/jhollistorcid.jpg" style="width: 590px;"/>
+
+--- &twocol w1:30% w2:65%
 
 ## Online Identity: Google Scholar 
 
@@ -342,19 +356,18 @@ Allowed, but...
 ## Online Identity: ImpactStory
 
 ***=left
-
-
-***=right
-
---- &twocol w1:40% w2:60%
-
-## Online Identity: ORCID
-
-***=left
-
+- Altmetrics
+- Curate
+ - Pubs
+ - Presents
+ - Code
+ - Blogs
+ - Tweets
+- "I am more than my h-index"
 
 ***=right
 
+<a href="http://impactstory.org/JeffreyHollister"><img src="assets/img/jhollistis.jpg" style="width: 575px;"/></a>
 
 <!-- Segue Does It Matter -->
 
@@ -408,7 +421,7 @@ Allowed, but...
 
 ***=right
 
-![Peerj Tshirt](assets/img/PeerJ-shirts-2013_270.jpg)
+<img src="assets/img/PeerJ-shirts-2013_270.jpg" style="width: 400px;"/>
 
 --- &twocol w1:40% w2:60%
 
@@ -431,7 +444,8 @@ Allowed, but...
 ## Does it Matter: Real Data 2
 
 ***=left
-- Targeted Blog Post
+- Targeted Blog Post PLOS One
+ - [Milstead et al (2013)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0081457)
  - [EPA: It All Starts with Science](http://blog.epa.gov/science/2013/12/sparrows-lakes-and-nutrients/)
  - [Personal Blog](http://landeco2point0.wordpress.com/2013/12/03/sparrow-lake-volume-field-data-plos-one-paper/)
 - Tweets
@@ -441,10 +455,13 @@ Allowed, but...
 ***=right
 ![milsteadgraph](assets/img/milsteadgraph.png)
 
----
+--- &twocol w1:30% w2:70%
 
 ## My Recomendations
 
+***=left
+
+***=right
 ### In Order:
 
 1. Google Shcolar
