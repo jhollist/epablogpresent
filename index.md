@@ -28,13 +28,15 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 <img src="assets/img/cat-pushing-watermelon-out-of-lake.jpg" />
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: indeterminate</span>
 
 <!-- Segue Blogging -->
 
 --- .segue bg:url(assets/img/070104_booger-blogger.jpg)
 
-<hgroup style="left: 30px; bottom: 35px;"><h2 style="font-size:300%;">Blogging</h2></hgroup>
+<hgroup style="left: 30px; bottom: 65px;"><h2 style="font-size:300%;">Blogging</h2></hgroup>
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: <a href="http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg">Pirillio and Fitz</a></span>
 
 --- 
 
@@ -45,6 +47,8 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 - Web based platform for sharing information or discussion about any subject. 
 
 <img src="assets/img/blogNgram.jpg" style="position: absolute;width:1000px;bottom: 50px;"/>
+
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: <a href="https://books.google.com/ngrams/graph?content=blogging%2Cblog%2Cblogger&year_start=1990&year_end=2014&corpus=15&smoothing=7&share=&direct_url=t1%3B%2Cblogging%3B%2Cc0%3B.t1%3B%2Cblog%3B%2Cc0%3B.t1%3B%2Cblogger%3B%2Cc0">Google Ngram Viewer</a></span>
 
 --- &twocol w1:48% w2:50%
 
@@ -108,6 +112,9 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 
 <img src="assets/img/bloggingRules.jpg" />
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: <a href="https://www.socialstrata.com/blog/community-guidelines-for-blogging">Mark Lynch</a></span>
+
+
 --- &twocol w1:40% w2:60%
 
 ## Blogging and EPA
@@ -123,6 +130,8 @@ Allowed, but...
 
 ***=right
 <img src="assets/img/dangersCrop.jpg" />
+
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: <a href="http://imgs.xkcd.com/comics/dangers.png">XKCD</a></span>
 
 --- &twocol w1:40% w2:60%
 
@@ -145,12 +154,14 @@ Allowed, but...
 ***=right
 <img src="assets/img/epablogs.png" style="width: 550px;position: absolute;bottom: 30px;"/>
 
+
 <!-- Segue Twitter -->
 
 --- .segue bg:url(assets/img/Assimilated.jpg)
 
-<hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Twitter</h2></hgroup>
+<hgroup style="left: 20px; bottom:45px;"><h2 style="color:#559B6A; font-size:300%;">Twitter</h2></hgroup>
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: <a href="http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg">Hill and Seiple</a></span>
 
 --- &twocol w1:45% w2:50%
 
@@ -183,6 +194,7 @@ Allowed, but...
 
 <img src="assets/img/hashtag.jpg" />
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:10px;">source: <a href="https://twitpic.com/dgj4t6">indeterminate/twitpic</a></span>
 
 --- &twocol w1:43% w2:57%
 
@@ -216,13 +228,14 @@ Allowed, but...
  - EPA
  - ORD
  - NHEERL
- - SSWR
  - etc.
 - They welcome content!
 
 
 ***=right
 <img src="assets/img/How-not-to-use-Twitter.jpg" style="width: 550px;"/>
+
+<span style="font-size:60%;position:absolute;bottom:0px;left:500px;">source: <a href="http://www.valuablecontent.co.uk/wp-content/uploads/2012/05/How-not-to-use-Twitter-_-image-1023x530.jpg">Valuable Content</a></span>
 
 <!-- Segue Social Networks -->
 
@@ -479,15 +492,12 @@ Allowed, but...
 
 ## Comic Credits
 
-- slid  : [Valuable Content](http://www.valuablecontent.co.uk/wp-content/uploads/2012/05/How-not-to-use-Twitter-_-image-1023x530.jpg)
-- slide : [twitpic](https://twitpic.com/dgj4t6)
-- Slide : [Mark Lynch](https://www.socialstrata.com/blog/community-guidelines-for-blogging)
+
 - slide : [Forbes](http://b-i.forbesimg.com/kenkrogue/files/2013/11/social-nurturing-with-linkedin-twitter-facebook-google-plus.jpg)
-- slide : [Pirillio and Fitz](http://netdna.webdesignerdepot.com/uploads/2009/03/070104_booger-blogger.jpg) 
-- slide : [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg)
+
 - slide : [Silverman and Essenpreis](http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg)
 - slide : [Perfect Reputations](http://perfectreputations.com/cartoon.jpg)
-- slide : [XKCD](http://imgs.xkcd.com/comics/dangers.png)
+
 - slide : [Hill and Shah](http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
 
 
