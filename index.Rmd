@@ -225,9 +225,7 @@ Allowed, but...
 ### Official EPA Accounts
 - Select few have access
 - Use communications staff
- - EPA
- - ORD
- - NHEERL
+ - EPA, ORD, NHEERL
  - etc.
 - They welcome content!
 
@@ -235,7 +233,7 @@ Allowed, but...
 ***=right
 <img src="assets/img/How-not-to-use-Twitter.jpg" style="width: 550px;"/>
 
-<span style="font-size:60%;position:absolute;bottom:0px;left:500px;">source: <a href="http://www.valuablecontent.co.uk/wp-content/uploads/2012/05/How-not-to-use-Twitter-_-image-1023x530.jpg">Valuable Content</a></span>
+<span style="font-size:60%;position:absolute;bottom:0px;left:30px;">source: <a href="http://www.valuablecontent.co.uk/wp-content/uploads/2012/05/How-not-to-use-Twitter-_-image-1023x530.jpg">Valuable Content</a></span>
 
 <!-- Segue Social Networks -->
 
@@ -243,7 +241,7 @@ Allowed, but...
 
 <hgroup style="left: 600px; bottom: 600px;"><h2 style=" font-size:300%;">Social Networks</h2></hgroup>
 
-
+<span style="font-size:60%;position:absolute;bottom:0px;left:30px;">source: <a href="http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg">Mashable Comics: Silverman and Essenpreis</a></span>
 
 --- &twocol w1:60% w2:40%
 
@@ -260,6 +258,7 @@ Allowed, but...
 ***=right
 
 <img src="assets/img/socialLogos.jpg" style="width: 300px;"/>
+<span style="font-size:60%;position:absolute;bottom:0px;left:30px;">source: <a href="http://b-i.forbesimg.com/kenkrogue/files/2013/11/social-nurturing-with-linkedin-twitter-facebook-google-plus.jpg">Forbes</a></span>
 
 --- &twocol w1:40% w2:60%
 
@@ -288,6 +287,7 @@ Allowed, but...
 
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Online Identity</h2></hgroup>
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:30px;">source: <a href="http://perfectreputations.com/cartoon.jpg">Perfect Reputations</a></span>
 
 --- &twocol w1:40% w2:60%
 
@@ -388,6 +388,8 @@ Allowed, but...
 
 <hgroup style="left: 30px; bottom: 600px;"><h2 style="color:#559B6A; font-size:300%;">Does It Matter?</h2></hgroup>
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:30px;">source: <a href="http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg">Hill and Shah</a></span>
+
 --- &twocol w1:40% w2:60%
 
 ## Does it Matter: What others think
@@ -407,6 +409,7 @@ Allowed, but...
 
 <img src="assets/img/journal.pbio.1001535.g001.png" alt="From Bik and Goldstein (2013)" style="height: 575px;position: absolute;bottom: 20px;right: 80px;" />
 
+<span style="font-size:60%;position:absolute;bottom:0px;left:30px;">source: <a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001535">Bik and Goldstein (2013)</a></span>
 
 --- &twocol w1:40% w2:60%
 
@@ -419,9 +422,14 @@ Allowed, but...
 >- New Collaborations
  - ROpenSci
  - Software Carpentry
- - Boston MOS/MIT
+ - Boston MOs
+ - MIT Sensable City Lab
 
 ***=right
+
+<img src="http://www.docave.com/AvePointBlog/Lists/Photos/Dilbert.JPG", style="width:600px;"/>
+
+<span style="font-size:60%;position:absolute;bottom:0px;left:30px;">source: <a href="http://www.docave.com/AvePointBlog/Lists/Photos/Dilbert.JPG">Scott Adams and DocAve</a></span>
 
 --- &twocol w1:40% w2:60%
 
@@ -434,7 +442,7 @@ Allowed, but...
 
 ***=right
 
-<img src="assets/img/PeerJ-shirts-2013_270.jpg" style="width: 400px;"/>
+<img src="assets/img/PeerJ-shirts-2013_270.jpg" style="width: 600px;"/>
 
 --- &twocol w1:40% w2:60%
 
@@ -487,17 +495,28 @@ Allowed, but...
 7. Personal Page
 8. Whatever Social Networking sites you want (YMMV)
 
+--- &twocol w1:30% w2:70%
 
----
+## Things to remember
 
-## Comic Credits
+***=left
 
+***=right
+### Short List:
 
-- slide : [Forbes](http://b-i.forbesimg.com/kenkrogue/files/2013/11/social-nurturing-with-linkedin-twitter-facebook-google-plus.jpg)
+1. You get out what you put in
+2. The internet lives forever (until proven otherwise)
+3. You exist online, even if you think you don't
 
-- slide : [Silverman and Essenpreis](http://rack.3.mshcdn.com/media/ZgkyMDEyLzA1LzIyLzEzXzU4XzU3XzY1MF9maWxlCnAJdGh1bWIJODUweDU5MD4KZQlqcGc/3e9eab41.jpg)
-- slide : [Perfect Reputations](http://perfectreputations.com/cartoon.jpg)
+--- &twocol w1:25%% w2:70%
 
-- slide : [Hill and Shah](http://juice-marketing.com/blog/wp-content/uploads/2012/10/Hubspot-The-Rank-Nazi.jpg)
+## Questions
+
+***=left
+- Any talk about social media must have cute pictures of children or pets.  It's a law
+
+***=right
+<img src="assets/img/cuteness.jpg" style="width:700px;"/>
+
 
 
