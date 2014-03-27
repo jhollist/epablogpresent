@@ -322,7 +322,7 @@ Allowed, but...
 
 <img src="assets/img/jhollistorcid.jpg" style="width: 590px;"/>
 
---- &twocol w1:30% w2:65%
+--- &twocol w1:30% w2:70%
 
 ## Online Identity: Google Scholar 
 
