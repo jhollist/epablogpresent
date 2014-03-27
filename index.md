@@ -152,7 +152,7 @@ Allowed, but...
 <hgroup style="left: 30px; bottom: 35px;"><h2 style="color:#559B6A; font-size:300%;">Twitter</h2></hgroup>
 
 
---- &twocol w1:40% w2:60%
+--- &twocol w1:45% w2:50%
 
 ## Twitter: What?
 
@@ -166,7 +166,7 @@ Allowed, but...
 
 ### Risk Taking
 
-[![jhollist](assets/img/jhollistTwitter.jpg)](http://twitter.com)
+<a href="http://twitter.com"><img src="assets/img/jhollistTwitter.jpg" style="width:500px;"/></a>
 
 --- &twocol w1:40% w2:60%
 
@@ -184,7 +184,7 @@ Allowed, but...
 <img src="assets/img/hashtag.jpg" />
 
 
---- &twocol w1:40% w2:60%
+--- &twocol w1:43% w2:57%
 
 
 ## Twitter: Why?
@@ -198,8 +198,7 @@ Allowed, but...
 
 ***=right
 
-<blockquote class="twitter-tweet" lang="en"><p>&quot;I appreciate that they let me ride in the car, but do I think of them as family? God, no.&quot; <a href="http://t.co/npyAd3NkZF">http://t.co/npyAd3NkZF</a> <a href="http://t.co/LgnRh3zXYk">pic.twitter.com/LgnRh3zXYk</a></p>&mdash; The Onion (@TheOnion) <a href="https://twitter.com/TheOnion/statuses/444552891575984129">March 14, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="assets/img/onionTweet.jpg" />
 
 --- &twocol w1:40% w2:60%
 
@@ -213,12 +212,17 @@ Allowed, but...
 
 ### Official EPA Accounts
 - Select few have access
-- Coordinate with Communications Staff
-- They Welcome content!
+- Use communications staff
+ - EPA
+ - ORD
+ - NHEERL
+ - SSWR
+ - etc.
+- They welcome content!
 
 
 ***=right
-<img src="assets/img/dangersCrop.jpg" />
+<img src="assets/img/How-not-to-use-Twitter.jpg" style="width: 550px;"/>
 
 <!-- Segue Social Networks -->
 
@@ -286,23 +290,52 @@ Allowed, but...
 
 ***=right
 
---- &twocol w1:40% w2:60%
+> If you are not curating your online identity, 
+> someone or something else is doing it for you.
+> - Jarrett Byrnes, 
+> <span><a href="http://www.imachordata.com/which-social-media-platform-should-i-use-for-science">i'm a chordata, urachordata</a></span>
 
-## Online Identity: Personal Page
-
-***=left
-
-
-***=right
-
---- &twocol w1:40% w2:60%
+--- &twocol w1:30% w2:70%
 
 ## Online Identity: Google Scholar 
 
 ***=left
-
+- "My Citations" Page
+- VERY easy
+- Allows you to curate
+- Research focused
 
 ***=right
+
+<img src="assets/img/googleScholarPage1.jpg" style="width:700px;"/>
+
+--- &twocol w1:30% w2:70%
+
+## Online Identity: Google Scholar 
+
+***=left
+- "My Citations" Page
+- VERY easy
+- Allows you to curate
+- Research focused
+
+***=right
+
+<img src="assets/img/googleScholarPage2.jpg" style="width:700px;"/>
+
+--- &twocol w1:30% w2:70%
+
+## Online Identity: Google Scholar 
+
+***=left
+- "My Citations" Page
+- VERY easy
+- Allows you to curate
+- Research focused
+
+***=right
+
+<img src="assets/img/googleScholarPage3.jpg" style="width:700px;"/>
 
 --- &twocol w1:40% w2:60%
 
@@ -429,6 +462,7 @@ Allowed, but...
 
 ## Comic Credits
 
+- slid  : [Valuable Content](http://www.valuablecontent.co.uk/wp-content/uploads/2012/05/How-not-to-use-Twitter-_-image-1023x530.jpg)
 - slide : [twitpic](https://twitpic.com/dgj4t6)
 - Slide : [Mark Lynch](https://www.socialstrata.com/blog/community-guidelines-for-blogging)
 - slide : [Forbes](http://b-i.forbesimg.com/kenkrogue/files/2013/11/social-nurturing-with-linkedin-twitter-facebook-google-plus.jpg)
