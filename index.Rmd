@@ -18,7 +18,7 @@ mode        : selfcontained  # {standalone, draft, selfcontained}
 ***=left
 
 1. Blogging
-2. Twiiter
+2. Twitter
 3. Social Media
 4. Online Presence
 5. EPA Considerations
