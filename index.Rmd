@@ -152,7 +152,7 @@ Allowed, but...
  - [It All Starts with Science](http://blog.epa.gov/science/)
 
 ***=right
-<img src="assets/img/epablogs.jpg" style="width: 550px;position: absolute;bottom: 30px;"/>
+<img src="assets/img/epablogs.png" style="width: 550px;position: absolute;bottom: 30px;"/>
 
 
 <!-- Segue Twitter -->
